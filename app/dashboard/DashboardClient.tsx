@@ -61,6 +61,8 @@ type Track = {
   lessons: Lesson[];
 };
 
+
+
 const touchTypingLessons: Lesson[] = [
   {
     id: "typing-home-row",
