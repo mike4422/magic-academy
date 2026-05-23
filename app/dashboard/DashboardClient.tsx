@@ -66,7 +66,7 @@ const touchTypingLessons: Lesson[] = [
     id: "typing-home-row",
     title: "Touch Typing Foundation: Home Row",
     time: "00:00:00",
-    videoSrc: "/videos/touch-typing.mkv",
+    videoSrc: "https://pub-45ad5de94ee44d738efce07eb3e9060c.r2.dev/touch-typing.mkv",
     category: "Typing Basics",
     difficulty: "Beginner",
     tasks: [
