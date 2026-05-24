@@ -746,7 +746,7 @@ const tracks: Track[] = [
     subtitle: "HTML, CSS, JavaScript, React, Node, SQL, Next.js",
     icon: Code2,
     accent: "from-cyan-300 via-blue-500 to-purple-600",
-    videoSrc: "/videos/fullstack-course.webm",
+    videoSrc: "https://magic-academy-videos.mikesteven50844.workers.dev/fullstack-course.webm",
     lessons: fullstackLessons,
   },
   {
